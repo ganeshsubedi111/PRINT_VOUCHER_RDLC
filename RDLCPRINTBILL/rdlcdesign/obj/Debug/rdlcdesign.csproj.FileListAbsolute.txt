@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\bin\Debug\rdlcdesign.exe.config
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\bin\Debug\rdlcdesign.exe
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\bin\Debug\rdlcdesign.pdb
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\obj\Debug\rdlcdesign.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\obj\Debug\rdlcdesign.Properties.Resources.resources
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\obj\Debug\rdlcdesign.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\obj\Debug\rdlcdesign.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\obj\Debug\rdlcdesign.csproj.CopyComplete
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\obj\Debug\rdlcdesign.exe
+C:\Users\User\Desktop\RDLCReportC#\RDLCPRINTBILL\rdlcdesign\obj\Debug\rdlcdesign.pdb
